@@ -107,6 +107,8 @@ ServerName www.unix.org
 times does the word "Vishta" show up in the short story? How many times does the
 word "Kuno" show up in the short story?
 
+29 and 24 Respectively
+
 ## Stretch Goals
 
 * Play Tetris in Emacs.
